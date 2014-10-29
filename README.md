@@ -3,11 +3,6 @@ requirejs_versiondep
 
 Requirejs plugin for loadin versioned files using web browser cache
 
-requirejs_versiondep
-====================
-
-Requirejs plugin for loadin versioned files using web browser cache
-
 To use the plugin we can use the properties:
 - versionArgs: it´s an object with the resource name as property name and versión name as the value.
   	
