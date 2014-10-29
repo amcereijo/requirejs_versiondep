@@ -1,0 +1,11 @@
+{
+  "name": "requirejs-versiondep",
+  "description": "An plugin to request versioned files",
+  "version": "0.1",
+  "main": [
+    "src/versiondep.js",
+  ],
+  "ignore": [
+    "package.json"
+  ]
+}

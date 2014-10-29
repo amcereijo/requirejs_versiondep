@@ -1,0 +1,15 @@
+{
+  "name": "requirejs-versiondep",
+  "description": "An plugin to request versioned files",
+  "categories": [
+    "Loader plugins"
+  ],
+  "version": "0.1",
+  "main": "src/versiondep.js",
+  "volo": {
+    "url": "https://raw.github.com/amcereijo/requirejs-versiondep/{version}/versiondep.js",
+  },
+  "devDependencies": {
+    "requirejs": "^2.1.4"
+  }
+}
